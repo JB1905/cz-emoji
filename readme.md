@@ -5,7 +5,7 @@
 **cz-emoji** allows you to easily use emojis in your commits using [commitizen].
 
 ```sh
-? Select the type of change you are committing: (Use arrow keys)
+? Select the type of change you're committing: (Use arrow keys or type to search)
 ❯ feature   ✨  Introducing new features.
   fix       🐛  Fixing a bug.
   docs      📝  Writing docs.
