@@ -6,11 +6,10 @@
 
 ```sh
 ? Select the type of change you are committing: (Use arrow keys)
-❯ feature   🌟  A new feature
-  fix       🐞  A bug fix
-  docs      📚  Documentation change
-  refactor  🎨  A code refactoring change
-  chore     🔩  A chore change
+❯ feature   ✨  Introducing new features.
+  fix       🐛  Fixing a bug.
+  docs      📝  Writing docs.
+  refactor  ♻️  Refactoring code.
 ```
 
 ## Install
